@@ -7,7 +7,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import coil.compose.AsyncImage
-import com.marghclone.data.model.Quote
+import com.marghclone.domain.model.Quote
 
 @Composable
 fun QuoteContent(quote: Quote) {

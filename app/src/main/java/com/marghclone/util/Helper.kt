@@ -1,6 +1,6 @@
 package com.marghclone.util
 
-import com.marghclone.data.model.Quote
+import com.marghclone.domain.model.Quote
 
 object Helper {
 
